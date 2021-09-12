@@ -1,0 +1,26 @@
+{
+  "name": "qris",
+  "version": "0.0.1",
+  "description": "Library to encode and decode QRIS, a standardized QR code as regulated by Central Bank of Indonesia to facilitate cashless payment in Indonesia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marengga/qris.git"
+  },
+  "keywords": [
+    "qris",
+    "emvco",
+    "qr",
+    "indonesia"
+  ],
+  "author": "Andri K. Marengga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marengga/qris/issues"
+  },
+  "homepage": "https://github.com/marengga/qris#readme",
+  "dependencies": {}
+}
